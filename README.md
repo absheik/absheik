@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @absheik
 - 👀 I’m interested in distributed systems
-- 🌱 I’m currently learning [Forthic](https://github.com/linkedin/forthic) and [Cockroach DB](https://github.com/cockroachdb/cockroach)
+- 🌱 I’m currently learning [Forthic](https://github.com/linkedin/forthic), [TLA+](https://lamport.azurewebsites.net/tla/learning.html) and [Cockroach DB](https://github.com/cockroachdb/cockroach)
 - 💞️ I’m looking to collaborate on **automations for TPM role.**
 - 📫 How to reach me [on LinkedIn](https://www.linkedin.com/in/abdulsheik/)
 
